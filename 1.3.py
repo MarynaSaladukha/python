@@ -1,0 +1,6 @@
+n = input('Введите число n ')
+print(n)
+n1 = (n + n)
+n2 = (n + n + n)
+summ = int(n) + int(n1) + int(n2)
+print(summ)
